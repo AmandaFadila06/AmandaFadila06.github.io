@@ -1,0 +1,24 @@
+
+#produk {
+	margin-top= 31px;
+	padding= 5px;
+	background-color: #ebe9e9;
+	}
+.card p {
+	margin-top: -10px;
+	margin-bottom: 1px;
+	}
+.row .card:hover{
+	box-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+	transform: scale(1.02);
+	}
+#tips .container{
+	text-align= center;
+	font-family= raleway;
+}
+#tips .container .row .ml-3.mr-3 #empat {
+	margin-left= 0px;
+	margin-right= 0px;
+	padding-bottom= 5px;
+	padding-top= 5px;
+}
